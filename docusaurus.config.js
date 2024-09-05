@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'TagStudio | Alpha v9.4.0',
+  tagline: 'A User-Focused Document Management System',
   favicon: 'img/favicon.ico',
   // Set the production url of your site here
   url: 'https://github.com',
